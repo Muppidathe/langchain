@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain-text-splitters
+langchain_Huggingface
+notebook
+pymupdf
+unstructured
+pdfminer
+arxiv
+sentence_transformers
+faiss-cpu
+chromadb
